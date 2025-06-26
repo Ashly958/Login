@@ -16,6 +16,7 @@ Este proyecto es una práctica básica donde se desarrolla una página de inicio
 
 ## 📁 Estructura del Proyecto
 
+```bash
 /login/
 │
 ├── login.html 
@@ -27,7 +28,7 @@ Este proyecto es una práctica básica donde se desarrolla una página de inicio
     ├── Login.png
     ├── NewPassword.png
     └── Register.png
-
+```
 
 ## ✨ Funcionalidades
 
